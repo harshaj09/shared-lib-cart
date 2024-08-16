@@ -1,4 +1,4 @@
 @Library("com.digitrends.slbaug@main") _
-pipeline(
+firstpipeline(
     appName: 'cart'
 )
